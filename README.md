@@ -1,5 +1,5 @@
 # ContactCars.com
-A Selenium test framework using Java, TestNG and POM for automating test cases for ContactCars.com
+A Selenium test framework using Java, TestNG and POM for automating test cases for the old release of ContactCars.com
 
 
 ## Getting Started
